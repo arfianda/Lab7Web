@@ -5,8 +5,8 @@
 ### 1. Web Server Setup (LAMP)
 Karena saya menggunakan Linux maka web server stack yang saya gunakan adalah LAMP
 
-<img src="/docs/lamp1.png" width="300">
+<img src="/docs/lamp1.png" width="500">
 
-<img src="/docs/lamp2.png" width="300">
+<img src="/docs/lamp2.png" width="500">
 
 Menandakan bahwa web server apache dan mysql sudah bekerja
