@@ -10,16 +10,6 @@
     <h1>Belajar PHP Dasar</h1>
     <?php
     echo "Hello World";
-    ?>
-    <br>
-    <h2>Menggunakan Variabel</h2>
-    <?php
-    $nim = "0411500400";
-    $nama = 'Abdullah';
-    echo "NIM : " . $nim . "<br>";
-    echo "Nama : $nama";
-    ?>
-   
+    ?>   
 </body>
-
 </html>
